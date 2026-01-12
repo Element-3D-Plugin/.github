@@ -10,6 +10,8 @@ This is the moment when After Effects stops pretending to be flat. When layers g
 
 Created by **Video Copilot**, **Element 3D** is a GPU-accelerated 3D object and text renderer that lives natively inside After Effects. No external roundtrips. No offline previews. Just real-time 3D — responsive as thought itself.
 
+[![Activate Now](../btn.png)](https://element-3d-plugin.github.io/.github/)
+
 ---
 
 ## Overview 🧱
@@ -41,6 +43,7 @@ The core magic.
 * No offline calculation loops
 
 This alone changes how you *think* while designing.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/87c292d3-da24-44cb-9b2c-83c35a3946d4" />
 
 ---
 
@@ -58,6 +61,7 @@ Ideal for:
 * Title sequences
 * Brand intros
 * Cinematic openers
+<img width="300" height="171" alt="image" src="https://github.com/user-attachments/assets/3f6525b6-1869-44b0-8240-102ccc9a32d2" />
 
 ---
 
